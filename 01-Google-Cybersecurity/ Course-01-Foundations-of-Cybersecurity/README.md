@@ -1,19 +1,16 @@
-# Google Cybersecurity Professional Certificate
+ Google Cybersecurity Professional Certificate
 
-## Course 1: Foundations of Cybersecurity
+ Course 1: Foundations of Cybersecurity
 
-### Status
+ Status
 ✅ Completed
 
----
 
-## Course Overview
+ Course Overview
 
 The Foundations of Cybersecurity course introduced me to the fundamental concepts of cybersecurity, including how organizations protect their systems, networks, people, and data against cyber threats.
 
----
-
-## Skills I Learned
+ Skills I Learned
 
 - Cybersecurity fundamentals
 - CIA Triad
@@ -25,32 +22,29 @@ The Foundations of Cybersecurity course introduced me to the fundamental concept
 - Security frameworks
 - Roles of cybersecurity professionals
 
----
+ Key Concepts
 
-## Key Concepts
-
-### CIA Triad
+ CIA Triad
 
 - Confidentiality
 - Integrity
 - Availability
 
-### Common Threats
+ Common Threats
 
 - Malware
 - Phishing
 - Social Engineering
 - Insider Threats
 
-### Security Controls
+ Security Controls
 
 - Administrative Controls
 - Technical Controls
 - Physical Controls
 
----
 
-## Tools Introduced
+Tools Introduced
 
 - Linux
 - SQL
@@ -58,14 +52,11 @@ The Foundations of Cybersecurity course introduced me to the fundamental concept
 - IDS
 - Firewalls
 
----
 
-## Reflection
+Reflection
 
-This course gave me a strong understanding of cybersecurity fundamentals and prepared me for the next course: **Manage Security Risks**.
+This course gave me a strong understanding of cybersecurity fundamentals and prepared me for the next course: Manage Security Risks.
 
----
-
-## Next Goal
+ Next Goal
 
 Continue learning security risk management while strengthening my Linux, networking, and Python skills.
