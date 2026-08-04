@@ -1,4 +1,3 @@
-https://github.com/mustaphagaye422/cybersecurity-portfolio/tree/main
 👋 Welcome to My Cybersecurity Portfolio
 
 Hi, I'm Mustapha Gaye.
